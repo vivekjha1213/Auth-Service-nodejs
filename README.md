@@ -34,7 +34,7 @@
 
 ## Folder Structure
 
-nodejs-auth <br>
+Auth-Service-nodejs <br>
 ├── assets <br>
 │ --- ├── secure-icon.png <br>
 │ --- ├── cyber-security-icon.jpg <br>
